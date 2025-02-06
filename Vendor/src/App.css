@@ -1,0 +1,7 @@
+@import "tailwindcss";
+body{
+  user-select: none;
+  height: screen;
+  width: screen;
+  font-family: Roboto;
+}
